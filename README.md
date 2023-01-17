@@ -1,4 +1,3 @@
 # ahmad.alkhatib
 
-1. hallo dsahdisadsa
-  1. dsadsadsa
+> Portfolio voor de minor Data science
