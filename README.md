@@ -56,7 +56,9 @@ Een data scientist is vaak verantwoordelijk voor het bedenken van de juiste vrag
 <br />
 In samenvatting, Data Science is een veld dat zich richt op het verkrijgen van inzicht en kennis uit gegevens door middel van het verzamelen, opschonen, analyseren en visualiseren van gegevens met behulp van methoden uit de statistiek, wiskunde, informatica en machine learning. Het wordt veelvuldig toegepast in verschillende industrieën, zoals financiën, gezondheidszorg, marketing en retail, om beslissingen te nemen gebaseerd op data. Het is een snel groeiend veld en wordt vaak beschouwd als een van de belangrijkste vaardigheden voor de toekomst van het werk. Data wetenschappers hebben vaak een achtergrond in wiskunde, informatica of statistiek, maar er zijn ook steeds meer professionals die een overstap maken naar data science vanuit andere achtergronden, zoals economie of natuurkunde.
 <br />
+ 
 ### Het project:
+ 
 <br />
 
 ## Literature research
