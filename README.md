@@ -64,7 +64,16 @@ In samenvatting, Data Science is een veld dat zich richt op het verkrijgen van i
  
 <br />
 
-## Literature research
+## Literature research:
+Ik heb tijdens het project gezocht naar literatuur om begrip te krijgen over hoe machine learning-modellen werken en om oplossingen te vinden die voorspellende modellen opleveren.<br />
+https://www.ibm.com/topics/machine-learning<br />
+https://en.wikipedia.org/wiki/Machine_learning<br />
+https://www.sap.com/insights/what-is-machine-learning.html<br />
+https://www.geeksforgeeks.org/what-is-reinforcement-learning/<br />
+https://en.wikipedia.org/wiki/Reinforcement_learning<br />
+https://www.ifaamas.org/Proceedings/aamas2019/pdfs/p2250.pdf<br />
+https://www.geeksforgeeks.org/ml-reinforcement-learning-algorithm-python-implementation-using-q-learning/?ref=rp<br />
+
 
 ## Explanation of Terminology, jargon and definitions
 
