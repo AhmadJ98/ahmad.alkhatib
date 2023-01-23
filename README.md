@@ -131,8 +131,9 @@ Data science is een interdisciplinaire veld dat zich richt op het verzamelen, an
 <p>
  
 ## Presentations:
-[a link](https://github.com/AhmadJ98/ahmad.alkhatib/blob/main/Externe%20presentatie%20week%2014%20groep%204.pptx)
-Externe presentatie week 14 groep 4.pptx
+[Externe presentatie week 14 groep 4](https://github.com/AhmadJ98/ahmad.alkhatib/blob/main/Externe%20presentatie%20week%2014%20groep%204.pptx)<br />
+[Interne presentatie week 10 groep 4](https://github.com/AhmadJ98/ahmad.alkhatib/blob/main/Interne%20presentatie%20week%2010%20groep%204.pptx)<br />
+
 
 ## Writing paper:
 
