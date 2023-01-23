@@ -18,9 +18,10 @@ Deelvragen
 •	Hoe ziet de lay-out van de desbetreffende kade eruit? <br />
 •	Welke reinforcement learning modellen en methodes zijn relevant om dit optimalisatieprobleem aan te pakken? <br />
 <br />
- 
+ </p>
+ <p>
 <details><summary>Evaluation</summary>
 We hebben ons uiteindelijk gefocust op een Reinforcement learning model als oplossing voor ons probleem. Hoewel we ook een lineair programmeer model hebben geprobeerd, heb ik mij hier niet verder mee bezig gehouden omdat ik geen expertise heb in lineair programmeren. Maar dankzij deze experimenten heb ik een dieper begrip verkregen van hoe Reinforcement learning werkt en hoe we het konden toepassen op ons specifieke geval. Dit heeft ons geholpen bij het maken van een betere keuze voor de oplossing van ons probleem.
-
+</p>
 </p>
 </details>
