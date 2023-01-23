@@ -66,6 +66,7 @@ In samenvatting, Data Science is een veld dat zich richt op het verkrijgen van i
 
 ## Literature research:
 Ik heb tijdens het project gezocht naar literatuur om begrip te krijgen over hoe machine learning-modellen werken en om oplossingen te vinden die voorspellende modellen opleveren.<br />
+<br />
 https://www.ibm.com/topics/machine-learning<br />
 https://en.wikipedia.org/wiki/Machine_learning<br />
 https://www.sap.com/insights/what-is-machine-learning.html<br />
