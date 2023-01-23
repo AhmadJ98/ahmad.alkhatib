@@ -40,11 +40,25 @@ Verder hebben we ons gehouden aan de volgende planning:<br />
  
 </p>
 </details>
-<br />
+
 
 <details><summary>Domain knowledge</summary>
 <p>
- 
- 
+
+## Introduction of the subject field
+
+## Literature research
+
+## Explanation of Terminology, jargon and definitions
+
+ </p>
+</details>
+
+<details><summary> Communication</summary>
+<p>
+## Presentations 
+
+## Writing paper
+
  </p>
 </details>
