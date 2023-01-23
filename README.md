@@ -40,3 +40,11 @@ Verder hebben we ons gehouden aan de volgende planning:<br />
  
 </p>
 </details>
+<br />
+
+<details><summary>Domain knowledge</summary>
+<p>
+ 
+ 
+ </p>
+</details>
