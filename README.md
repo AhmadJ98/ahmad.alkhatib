@@ -3,7 +3,7 @@
 > Portfolio voor de minor Data science
 [a relative link](other_file.md)
 
-<details><summary>Research project</summary>
+<details><summary>##Research project</summary>
 <p>
 
 ## Task definition
