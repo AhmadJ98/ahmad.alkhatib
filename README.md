@@ -112,7 +112,8 @@ Data science is een interdisciplinaire veld dat zich richt op het verzamelen, an
 
 • Machine learning is een belangrijk onderdeel van data science en wordt vaak gebruikt voor het analyseren van grote hoeveelheden gegevens. Het is een proces waarbij computers in staat zijn om van gegevens te leren zonder expliciet geprogrammeerd te worden. Dit kan worden gedaan door het gebruik van algoritmen die in staat zijn om patronen en relaties in de gegevens te ontdekken. Er zijn verschillende soorten machine learning, waaronder supervised learning, unsupervised learning en reinforcement learning.<br />
 
-• Supervised learning is waarbij de computers leert met behulp van gegevens met bekende output (gelabeled data) zoals bijvoorbeeld bij het klassificeren van beelden, unsupervised learning is waarbij de computer geen gekende output heeft en zelf patronen probeert te ontdekken zoals bijvoorbeeld bij het ontdekken van clusters in gegevens. <br />
+• Supervised learning is waarbij de computers leert met behulp van gegevens met bekende output (gelabeled data) zoals bijvoorbeeld bij het klassificeren van beelden.
+• Unsupervised learning is waarbij de computer geen gekende output heeft en zelf patronen probeert te ontdekken zoals bijvoorbeeld bij het ontdekken van clusters in gegevens. <br />
 
 • Reinforcement learning is een vorm van machine learning waarbij de computer leert door feedback te krijgen op zijn acties. Machine learning-modellen worden vaak gebruikt in toepassingen zoals voorspellingen, automatisch classificeren, beeldherkenning en natuurlijke taalverwerking.<br />
 
