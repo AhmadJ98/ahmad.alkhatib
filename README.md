@@ -76,8 +76,53 @@ https://www.ifaamas.org/Proceedings/aamas2019/pdfs/p2250.pdf<br />
 https://www.geeksforgeeks.org/ml-reinforcement-learning-algorithm-python-implementation-using-q-learning/?ref=rp<br />
 
 
-## Explanation of Terminology, jargon and definitions
+## Explanation of Terminology, jargon and definitions:<br />
+ 
+Data science is een interdisciplinaire veld dat zich richt op het verzamelen, analyseren en interpreteren van grote hoeveelheden gegevens (big data) met behulp van methoden uit de statistiek, wiskunde, informatica en andere gerelateerde velden. Hieronder worden enkele belangrijke termen, jargon en definities behandeld die vaak worden gebruikt in de context van data science.<br />
 
+
+Big data: Dit verwijst naar zeer grote hoeveelheden gegevens die te groot zijn om te worden verwerkt of opgeslagen door traditionele databases of software.<br />
+
+
+Machine learning: Dit is een subveld van kunstmatige intelligentie waarbij computerprogramma's in staat zijn om van gegevens te leren zonder expliciet geprogrammeerd te worden.<br />
+
+
+Data mining: Dit is het proces van het ontdekken van patronen en kennis in grote hoeveelheden gegevens.<br />
+
+
+Data warehousing: Dit is het proces van het opslaan van grote hoeveelheden gegevens in een centrale database voor analyse en rapportage.<br />
+
+
+Data visualization: Dit is het proces van het weergeven van gegevens in een visueel aantrekkelijke manier, zoals grafieken of kaarten.<br />
+
+
+Data cleansing: Dit is het proces van het verwijderen of corrigeren van fouten of inconsistenties in de gegevens.<br />
+
+
+Data modeling: Dit is het proces van het creëren van een logisch en fysiek model van de gegevens voor gebruik in een database of andere gegevensopslag.<br />
+
+
+Natural Language Processing (NLP): Dit is een subveld van kunstmatige intelligentie dat zich richt op het verwerken van menselijke taal door computers.<br />
+
+
+Predictive modeling: Dit is het proces van het maken van voorspellingen over toekomstige gebeurtenissen op basis van historische gegevens.<br />
+
+
+Data governance: Dit is het proces van het beheren van gegevens op een manier die voldoet aan de eisen van de organisatie en de wetgeving.<br />
+
+Machine learning is een belangrijk onderdeel van data science en wordt vaak gebruikt voor het analyseren van grote hoeveelheden gegevens. Het is een proces waarbij computers in staat zijn om van gegevens te leren zonder expliciet geprogrammeerd te worden. Dit kan worden gedaan door het gebruik van algoritmen die in staat zijn om patronen en relaties in de gegevens te ontdekken. Er zijn verschillende soorten machine learning, waaronder supervised learning, unsupervised learning en reinforcement learning.<br />
+
+Supervised learning is waarbij de computers leert met behulp van gegevens met bekende output (gelabeled data) zoals bijvoorbeeld bij het klassificeren van beelden, unsupervised learning is waarbij de computer geen gekende output heeft en zelf patronen probeert te ontdekken zoals bijvoorbeeld bij het ontdekken van clusters in gegevens. <br />
+
+Reinforcement learning is een vorm van machine learning waarbij de computer leert door feedback te krijgen op zijn acties. Machine learning-modellen worden vaak gebruikt in toepassingen zoals voorspellingen, automatisch classificeren, beeldherkenning en natuurlijke taalverwerking.<br />
+
+
+Overfitting: Dit gebeurt wanneer een model te complex is en zich te nauwkeurig aanpast aan de training gegevens, waardoor het slecht presteert op onbekende gegevens (test gegevens). Het model leert de ruis (noise) in de training gegevens, in plaats van de echte relaties tussen de features en de output. Dit leidt tot een hoge nauwkeurigheid op de training gegevens en een slechte prestatie op de testgegevens.<br />
+
+
+Underfitting: Dit gebeurt wanneer een model te simpel is en niet in staat is om de complexiteit van de gegevens te captureren. Dit leidt tot een slechte prestatie zowel op de training gegevens als op de testgegevens.<br />
+
+ 
  </p>
 </details>
 
