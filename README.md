@@ -30,6 +30,7 @@ In dit project is gekeken naar manieren om containers op een efficiënte manier 
 ## Planning:
 <br />
 Als groep hebben we afgesproken om een planning te maken en te werken met Scrum methodologie. Hierbij maakten we gebruik van een tool genaamd Trello waar we alle taken bijhouden, de verantwoordelijken aangeven en de deadlines noteren. We hebben alles ook kunnen indelen in afgeronde taken en werk in uitvoering.<br />
+ <br />
 Verder hebben we ons gehouden aan de volgende planning:<br />
  <br />
  • Elke maandag om 11:00 bespreken we met docent Karin de Smidt. <br />
