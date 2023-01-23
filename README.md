@@ -47,6 +47,8 @@ Verder hebben we ons gehouden aan de volgende planning:<br />
 
 ## Introduction of the subject field
 
+### Data science cursus
+### Het project
 ## Literature research
 
 ## Explanation of Terminology, jargon and definitions
