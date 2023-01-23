@@ -5,8 +5,7 @@
 
 <details><summary>CLICK ME</summary>
 <p>
-<summary>CLICK ME</summary>
-
+<details><summary>CLICK ME</summary>
 
 </p>
 </details>
