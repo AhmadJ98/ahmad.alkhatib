@@ -47,8 +47,18 @@ Verder hebben we ons gehouden aan de volgende planning:<br />
 
 ## Introduction of the subject field
 
-### Data science cursus
-### Het project
+### Data science cursus:
+<br />
+Data Science is een multidisciplinair veld dat zich richt op het verkrijgen van inzicht en kennis uit gegevens. Het omvat verschillende stappen zoals het verzamelen, opschonen, analyseren en visualiseren van gegevens. Met behulp van methoden uit de statistiek, wiskunde, informatica en machine learning, ontdekken data wetenschappers patronen in de gegevens en maken zij voorspellingen.
+Data Science wordt vaak toegepast in verschillende industrieën, zoals financiën, gezondheidszorg, marketing en retail om beslissingen te nemen gebaseerd op data. In de financiële sector wordt bijvoorbeeld gebruik gemaakt van data science om fraude te detecteren en risico's te bepalen. In de gezondheidszorg wordt data science ingezet om patiëntendossiers te analyseren en zo behandelingsopties te bepalen. In marketing en retail worden klantprofielen opgebouwd en voorspellingen gedaan over klantgedrag.<br />
+Data Science is een snel groeiend veld en wordt vaak beschouwd als een van de belangrijkste vaardigheden voor de toekomst van werk. Er zijn steeds meer organisaties die grote hoeveelheden gegevens verzamelen, zoals sociale media, sensoren en internet-verbonden apparaten. Deze gegevens moeten worden geanalyseerd en geïnterpreteerd om waardevolle inzichten te verkrijgen.<br />
+Een data scientist is vaak verantwoordelijk voor het bedenken van de juiste vragen, het verzamelen en opschonen van gegevens, het bouwen van modellen en het communiceren van resultaten. Het vereist vaak een combinatie van vaardigheden in statistiek, programmeren, communicatie en domain-kennis. Veel data wetenschappers hebben een achtergrond in wiskunde, informatica of statistiek, maar er zijn ook steeds meer professionals die een overstap maken naar data science vanuit andere achtergronden zoals economie, natuurkunde, of zelfs filosofie.<br />
+<br />
+In samenvatting, Data Science is een veld dat zich richt op het verkrijgen van inzicht en kennis uit gegevens door middel van het verzamelen, opschonen, analyseren en visualiseren van gegevens met behulp van methoden uit de statistiek, wiskunde, informatica en machine learning. Het wordt veelvuldig toegepast in verschillende industrieën, zoals financiën, gezondheidszorg, marketing en retail, om beslissingen te nemen gebaseerd op data. Het is een snel groeiend veld en wordt vaak beschouwd als een van de belangrijkste vaardigheden voor de toekomst van het werk. Data wetenschappers hebben vaak een achtergrond in wiskunde, informatica of statistiek, maar er zijn ook steeds meer professionals die een overstap maken naar data science vanuit andere achtergronden, zoals economie of natuurkunde.
+<br />
+### Het project:
+<br />
+
 ## Literature research
 
 ## Explanation of Terminology, jargon and definitions
