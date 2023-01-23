@@ -13,7 +13,7 @@ Het doel van dit project, uitgevoerd voor Cofano Software Solutions, is om de pr
 Hoofdvraag :<br />
 Hoe kan ervoor gezorgd worden dat containers op de kade op een efficiënte manier opgestapeld kunnen worden, zodat de afnemer van de containers hier makkelijk bij kan.<br /> 
 <br /> 
-> Deelvragen 
+Deelvragen 
  <br />
 •	Hoe ziet de lay-out van de desbetreffende kade eruit? <br />
 •	Welke reinforcement learning modellen en methodes zijn relevant om dit optimalisatieprobleem aan te pakken? <br />
