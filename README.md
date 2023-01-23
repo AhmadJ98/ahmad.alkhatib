@@ -56,9 +56,10 @@ Verder hebben we ons gehouden aan de volgende planning:<br />
 
 <details><summary> Communication</summary>
 <p>
-## Presentations 
+ 
+## Presentations:
 
-## Writing paper
+## Writing paper:
 
  </p>
 </details>
