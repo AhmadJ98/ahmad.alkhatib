@@ -1,4 +1,4 @@
-# ahmad.alkhatib
+# Ahmad Alkhatib
 
 > Portfolio voor de minor Data science
 
