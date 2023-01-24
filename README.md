@@ -61,6 +61,10 @@ In samenvatting, Data Science is een veld dat zich richt op het verkrijgen van i
  <br />
  
 ### Het project:
+<br />
+In de logistieke wereld is de scheepvaart een cruciale sector. Goederen worden eerst in containers geladen en vervolgens naar een terminal vervoerd, waar ze op een containerschip gezet worden. Voordat de containers op het schip geplaatst worden, staan ze eerst op de container yard van de terminal. Hier worden de containers die meegaan met het schip, met behulp van een reachstacker op het schip gezet.
+
+Het doel is om de containers zo efficiënt mogelijk te plaatsen en op te stapelen, zodat er zo min mogelijk stappen nodig zijn om de containers op elk schip te laden. Dit bespaart tijd en geld, en vermindert vertragingen. Cofano wil onderzoeken welke methode(s) geschikt zijn om het container stacking probleem op te lossen en het container stacken te automatiseren. Eén van de oplossingsrichtingen is om het probleem als een optimalisatieprobleem te formuleren, bestaande uit decision variables, objective function en constraints, en vervolgens een heuristiek toe te passen. Het is interessant om meerdere heuristieken toe te passen en deze met elkaar te vergelijken op basis van hun resultaten.
  
 <br />
 
