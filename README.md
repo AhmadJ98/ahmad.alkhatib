@@ -183,3 +183,13 @@ Data science is een interdisciplinaire veld dat zich richt op het verzamelen, an
 • Voor het tweede project (Container) heb ik de discussie onderdeel geschreven.
  </p>
 </details>
+
+<details><summary>Notebooks</summary>
+<p>
+ 
+Hieronder is een RL module die ik zelf heb gemaakt voor het Containers project.<br />
+ 
+[Containers](https://github.com/AhmadJ98/ahmad.alkhatib/blob/main/Containers.pdf)<br />
+ 
+</p>
+</details>
