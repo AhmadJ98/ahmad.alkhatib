@@ -4,7 +4,7 @@
 <details><summary>DataCamp Courses</summary>
 <p>
 <br />
-•Ik heb 93.75% van de DataCamp Courses afgemaakt.<br />
+• Ik heb 93.75% van de DataCamp Courses afgemaakt.<br />
  
 ![image](https://user-images.githubusercontent.com/71191328/214381802-5e15438b-ce79-4e30-966f-b117a879b4b1.png)<br />
  
