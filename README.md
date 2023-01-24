@@ -63,9 +63,7 @@ Er worden enkele parameters gedefinieerd voor het algoritme, zoals de "discount 
  
 ## Training a model: <br />
 Het Q-Learning algoritme wordt getraind door middel van een proces waarbij een willekeurige staat wordt geselecteerd en een willekeurige actie wordt genomen (in dit geval een overgang naar een naburige locatie in het terminal), waarna de Q-waarde voor die staat-actie-combinatie wordt bijgewerkt. Dit wordt herhaald voor een bepaald aantal iteraties (1000 in dit geval).
- 
 <br />
- 
 ## Evaluating a model: <br />
  
 De Q-waarden worden gebruikt om de optimale route te bepalen van de startlocatie naar de eindlocatie door steeds naar de staat te gaan met de hoogste Q-waarde.
@@ -74,7 +72,7 @@ De Q-waarden worden gebruikt om de optimale route te bepalen van de startlocatie
 ## Visualizing the outcome of a model (explanatory): <br />
 Er wordt geen expliciete visualisatie gegeven, maar de optimale route wordt weergegeven als een lijst met locaties.<br />
 <br />
-Hieronder is een PDF bestaand van de code.
+Hieronder is een PDF bestaand van de code.<br />
 [Containers](https://github.com/AhmadJ98/ahmad.alkhatib/blob/main/Containers.pdf)<br /> 
 </p>
 </details>
