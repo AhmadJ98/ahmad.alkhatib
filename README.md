@@ -51,6 +51,33 @@ Verder hebben we ons gehouden aan de volgende planning:<br />
 </p>
 </details>
 
+<details><summary>Predictive Analytics</summary>
+<p>
+<br />
+ 
+## Selecting a Model: <br />
+Q-Learning is een geschikt model voor dit onderzoek omdat het een soort van "reinforcement learning" (RL) is, wat betekent dat het algoritme leert door het nemen van acties en het ontvangen van beloningen. In dit specifieke geval is het doel om de optimale route te vinden tussen twee locaties in een doolhof, dus het algoritme moet leren welke acties (overgangen naar naburige locaties) leiden tot de grootste beloning (snelste route naar de eindlocatie). Q-Learning is een geschikte methode voor dit soort problemen omdat het een "tabular" algoritme is, wat betekent dat het de Q-waarden bijhoudt voor elke staat-actie-combinatie en deze gebruikt om de volgende actie te kiezen. Het is ook een geschikte methode omdat het geen voorafgaande kennis vereist over de omgeving waarin het algoritme zich bevindt (in dit geval het doolhof), het algoritme kan dus leren door middel van exploratie.<br />
+ 
+## Configuring a Mode: <br />
+Er worden enkele parameters gedefinieerd voor het algoritme, zoals de "discount factor" (gamma) en de "learning rate" (alpha).<br />
+ 
+## Training a model: <br />
+Het Q-Learning algoritme wordt getraind door middel van een proces waarbij een willekeurige staat wordt geselecteerd en een willekeurige actie wordt genomen (in dit geval een overgang naar een naburige locatie in het terminal), waarna de Q-waarde voor die staat-actie-combinatie wordt bijgewerkt. Dit wordt herhaald voor een bepaald aantal iteraties (1000 in dit geval).
+ 
+<br />
+ 
+## Evaluating a model: <br />
+ 
+De Q-waarden worden gebruikt om de optimale route te bepalen van de startlocatie naar de eindlocatie door steeds naar de staat te gaan met de hoogste Q-waarde.
+<br />
+
+## Visualizing the outcome of a model (explanatory): <br />
+Er wordt geen expliciete visualisatie gegeven, maar de optimale route wordt weergegeven als een lijst met locaties.<br />
+<br />
+Hieronder is een PDF bestaand van de code.
+[Containers](https://github.com/AhmadJ98/ahmad.alkhatib/blob/main/Containers.pdf)<br /> 
+</p>
+</details>
 
 <details><summary>Domain knowledge</summary>
 <p>
@@ -184,12 +211,3 @@ Data science is een interdisciplinaire veld dat zich richt op het verzamelen, an
  </p>
 </details>
 
-<details><summary>Notebooks</summary>
-<p>
- 
-Hieronder is een RL module die ik zelf heb gemaakt voor het Containers project.<br />
- 
-[Containers](https://github.com/AhmadJ98/ahmad.alkhatib/blob/main/Containers.pdf)<br />
- 
-</p>
-</details>
