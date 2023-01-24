@@ -1,7 +1,7 @@
 # Ahmad Alkhatib
 
 > Portfolio voor de minor Data science
-<details><summary>Research project</summary>
+<details><summary>DataCamp Courses</summary>
 <p>
  <br />
 •Ik heb 93.75% van de DataCamp Courses afgemaakt.<br />
