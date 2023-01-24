@@ -134,7 +134,8 @@ Data science is een interdisciplinaire veld dat zich richt op het verzamelen, an
 <p>
  
 ## Data exploration: <br />
-![image](https://user-images.githubusercontent.com/71191328/214367107-943fbc35-ce69-4fd6-ad02-b3ea8eacaada.png)
+![image](https://user-images.githubusercontent.com/71191328/214367107-943fbc35-ce69-4fd6-ad02-b3ea8eacaada.png)<br />
+![image](https://user-images.githubusercontent.com/71191328/214367496-b0598d12-e556-4b54-b875-2b0a687fc39d.png)<br />
 
 ## Data cleansing: <br />
 
