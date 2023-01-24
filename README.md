@@ -31,7 +31,7 @@ Deelvragen
 
 ## Evaluation:
 <br />
- uiteindelijk gefocust op een Reinforcement learning model als oplossing voor ons probleem. Hoewel we ook een lineair programmeer model hebben geprobeerd, heb ik mij hier niet verder mee bezig gehouden omdat ik geen expertise heb in lineair programmeren. Maar dankzij deze experimenten heb ik een dieper begrip verkregen van hoe Reinforcement learning werkt en hoe we het konden toepassen op ons specifieke geval. Dit heeft ons geholpen bij het maken van een betere keuze voor de oplossing van ons probleem.
+Uiteindelijk gefocust op een Reinforcement learning model als oplossing voor ons probleem. Hoewel we ook een lineair programmeer model hebben geprobeerd, heb ik mij hier niet verder mee bezig gehouden omdat ik geen expertise heb in lineair programmeren. Maar dankzij deze experimenten heb ik een dieper begrip verkregen van hoe Reinforcement learning werkt en hoe we het konden toepassen op ons specifieke geval. Dit heeft ons geholpen bij het maken van een betere keuze voor de oplossing van ons probleem.
 
 ## Conclusions: 
  <br />
