@@ -128,9 +128,21 @@ Data science is een interdisciplinaire veld dat zich richt op het verzamelen, an
 • Underfitting: Dit gebeurt wanneer een model te simpel is en niet in staat is om de complexiteit van de gegevens te captureren. Dit leidt tot een slechte prestatie zowel op de training gegevens als op de testgegevens.<br />
 
  
- </p>
+</p>
 </details>
+<details><summary>Data preprocessing</summary>
+<p>
+ 
+## Data exploration: <br />
+## Data cleansing: <br />
+## Data preparation: <br />
+## Data explanation: <br />
+## Data visualization: (exploratory) <br />
 
+ 
+</p>
+</details>
+ 
 <details><summary> Communication</summary>
 <p>
  
