@@ -3,9 +3,11 @@
 > Portfolio voor de minor Data science
 <details><summary>DataCamp Courses</summary>
 <p>
- <br />
+<br />
 •Ik heb 93.75% van de DataCamp Courses afgemaakt.<br />
+ 
 ![image](https://user-images.githubusercontent.com/71191328/214381802-5e15438b-ce79-4e30-966f-b117a879b4b1.png)<br />
+ 
 ![image](https://user-images.githubusercontent.com/71191328/214381693-04ba09f5-dbf3-4ca5-92c5-8087c9534d1d.png)<br />
  
 </p>
