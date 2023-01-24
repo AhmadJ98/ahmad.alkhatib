@@ -144,7 +144,6 @@ Data science is een interdisciplinaire veld dat zich richt op het verzamelen, an
 • Voor het eerste project (Food Boost) heb ik de onderstaande documenten geschreven voor onze research paper:<br />
  
 [IJzer](https://github.com/AhmadJ98/ahmad.alkhatib/blob/main/IJzer.docx)<br />
- 
 [VitamineB12](https://github.com/AhmadJ98/ahmad.alkhatib/blob/main/Vitamine%20B12.docx)<br />
 
  <br />
