@@ -145,8 +145,7 @@ Data science is een interdisciplinaire veld dat zich richt op het verzamelen, an
  
 [IJzer](https://github.com/AhmadJ98/ahmad.alkhatib/blob/main/IJzer.docx)<br />
 [VitamineB12](https://github.com/AhmadJ98/ahmad.alkhatib/blob/main/Vitamine%20B12.docx)<br />
-
- <br />
+ 
 • Voor het tweede project (Container) heb ik de discussie onderdeel geschreven.
  </p>
 </details>
