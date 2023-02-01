@@ -20,18 +20,35 @@
 <br />
 Het doel van dit project, uitgevoerd voor Cofano Software Solutions, is om de processen bij containerterminals te optimaliseren door het verkorten van de tijd dat schepen aan de kade liggen voor het in- en uitladen van containers. Dit moet geautomatiseerd worden en het onderzoek zal zich richten op het vinden van een optimale aanpak om deze uitdaging aan te pakken. Dit is belangrijk voor de efficiëntie van containeroverslag in de haven en voor het verminderen van kosten.<br />
 <br />
-Hoofdvraag :<br />
+In het begin van het project hebben mijn groepsleden en ik een hoofdvraag en deelvragen opgesteld, die de richtlijn vormen voor ons onderzoek. De hoofdvraag luidt: <br />
 Hoe kan ervoor gezorgd worden dat containers op de kade op een efficiënte manier opgestapeld kunnen worden, zodat de afnemer van de containers hier makkelijk bij kan.<br /> 
 <br /> 
-Deelvragen 
+Dit zijn de geformuleerde deelvragen:
  <br />
 •	Hoe ziet de lay-out van de desbetreffende kade eruit? <br />
 •	Welke reinforcement learning modellen en methodes zijn relevant om dit optimalisatieprobleem aan te pakken? <br />
 <br />
+Tijdens het project heb ik ook individuele taken uitgevoerd. Een van de taken die ik in het begin van het project heb uitgevoerd is het literatuuronderzoek naar reinforcement learning. Ik heb onderzoek gedaan naar wat reinforcement learning is en hoe wij het kunnen toepassen binnen ons project. De resultaten van dit onderzoek zijn uiteindelijk in ons onderzoek verwerkt. Uiteindelijk heb ik een alternatieve implementatie van reinforcement learning gecodeerd.
+ Dit is terug te lezen via de onderstaande link: 
 
+ [Containers](https://github.com/AhmadJ98/ahmad.alkhatib/blob/main/Containers.pdf)
+<br />
+Extra uitleg over de geïmplementeerde reinforcement learning model is te vinden onder Predictive Analytics subject.
+ 
+ 
+ 
 ## Evaluation:
 <br />
-Uiteindelijk gefocust op een Reinforcement learning model als oplossing voor ons probleem. Hoewel we ook een lineair programmeer model hebben geprobeerd, heb ik mij hier niet verder mee bezig gehouden omdat ik geen expertise heb in lineair programmeren. Maar dankzij deze experimenten heb ik een dieper begrip verkregen van hoe Reinforcement learning werkt en hoe we het konden toepassen op ons specifieke geval. Dit heeft ons geholpen bij het maken van een betere keuze voor de oplossing van ons probleem.
+Uiteindelijk is gefocust op een Reinforcement learning model als oplossing voor ons probleem. Hoewel we ook een lineair programmeer model hebben geprobeerd, heb ik mij hier niet verder mee bezig gehouden omdat ik geen expertise heb in het lineair programmeren. Maar dankzij deze experimenten heb ik een dieper begrip verkregen van hoe Reinforcement learning werkt en hoe we het konden toepassen op ons specifieke geval. Dit heeft ons geholpen bij het maken van een betere keuze voor de oplossing van ons probleem.
+ 
+Wat ging er goed tijdens het project: De wekelijkse gespreken waren erg informatief, de docenten gaven veel informatie die hulpvol waren tijdens het opstarten van het project. Ook tijdens het project was het hulpvol om feedback te krijgen, zodat we weten of we in de goede richting waren of er verbeteringen waren. 
+Wat ging er fout of kon beter?
+Het was een choatische start van het project binnen de groep. Een aantal groepsleden hadden tentames en waren hierdoor afwezig tijdens sommige lessen. Hierdoor ging het communiceren lastiger. Ook was een groepsgenoot gestopt, dit zorgde voor veranderingen in de planning. In de toekomst moet rekening worden gehouden dat er onverwachtte veranderingen in de planning kunnen plaatsvinden. Door duidelijke communicatie binnen de groep is de aanwezigheid van de groepsleden bekend en kan hier rekening mee worden gehouden. 
+ 
+
+
+ 
+
 
 ## Conclusions: 
  <br />
@@ -40,7 +57,16 @@ In dit project is gekeken naar manieren om containers op een efficiënte manier 
 ## Planning:
 <br />
 Als groep hebben we afgesproken om een planning te maken en te werken met Scrum methodologie. Hierbij maakten we gebruik van een tool genaamd Trello waar we alle taken bijhouden, de verantwoordelijken aangeven en de deadlines noteren. We hebben alles ook kunnen indelen in afgeronde taken en werk in uitvoering.<br />
- <br />
+<br />
+ 
+Hieronder zijn mijn uitgevoerde scrumtickets van het project containers te zien: <br />
+ 
+![image](https://user-images.githubusercontent.com/71191328/216038022-38edb762-8756-4c1b-ab91-f34936838c2f.png)
+![image](https://user-images.githubusercontent.com/71191328/216038401-2ed5201d-67e4-4770-9781-fc9c37ae51c1.png)
+![image](https://user-images.githubusercontent.com/71191328/216038542-2650c391-42b8-4352-a448-dbe0370fb05d.png)
+
+<br />
+ 
 Verder hebben we ons gehouden aan de volgende planning:<br />
  <br />
  • Elke maandag om 11:00 bespreken we met docent Karin de Smidt. <br />
