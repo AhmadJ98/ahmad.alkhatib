@@ -35,17 +35,22 @@ Tijdens het project heb ik ook individuele taken uitgevoerd. Een van de taken di
 <br />
 Extra uitleg over de geïmplementeerde reinforcement learning model is te vinden onder Predictive Analytics subject.
  
- 
+<br />
  
 ## Evaluation:
 <br />
 Uiteindelijk is gefocust op een Reinforcement learning model als oplossing voor ons probleem. Hoewel we ook een lineair programmeer model hebben geprobeerd, heb ik mij hier niet verder mee bezig gehouden omdat ik geen expertise heb in het lineair programmeren. Maar dankzij deze experimenten heb ik een dieper begrip verkregen van hoe Reinforcement learning werkt en hoe we het konden toepassen op ons specifieke geval. Dit heeft ons geholpen bij het maken van een betere keuze voor de oplossing van ons probleem.
- 
-Wat ging er goed tijdens het project: De wekelijkse gespreken waren erg informatief, de docenten gaven veel informatie die hulpvol waren tijdens het opstarten van het project. Ook tijdens het project was het hulpvol om feedback te krijgen, zodat we weten of we in de goede richting waren of er verbeteringen waren. Hulp vragen en hier op antwoord krijgen ging erg goed tijdens de samenwerking van de groep. Als ik vragen had voelde ik alsof ik ook hulp kan vragen bij mijn groepsgenoten, er werd snel gereageerd met antwoord op mijn vragen. 
-Wat ging er fout of kon beter?
+<br />
+
+###### Wat ging er goed tijdens het project? <br />
+
+De wekelijkse gespreken waren erg informatief, de docenten gaven veel informatie die hulpvol waren tijdens het opstarten van het project. Ook tijdens het project was het hulpvol om feedback te krijgen, zodat we weten of we in de goede richting waren of er verbeteringen waren. Hulp vragen en hier op antwoord krijgen ging erg goed tijdens de samenwerking van de groep. Als ik vragen had voelde ik alsof ik ook hulp kan vragen bij mijn groepsgenoten, er werd snel gereageerd met antwoord op mijn vragen. <br />
+<br />
+###### Wat ging er fout of kon beter? <br />
+
 Het was een choatische start van het project binnen de groep. Een aantal groepsleden hadden tentames en waren hierdoor afwezig tijdens sommige lessen. Hierdoor ging het communiceren lastiger. Ook was een groepsgenoot gestopt, dit zorgde voor veranderingen in de planning. In de toekomst moet rekening worden gehouden dat er onverwachtte veranderingen in de planning kunnen plaatsvinden. Door duidelijke communicatie binnen de groep is de aanwezigheid van de groepsleden bekend en kan hier rekening mee worden gehouden. Het communiceren in de groep bleef een verbeterpunt. Terwijl bijvoorbeeld sommige groepsleden bezig waren met een onderdeel, waren de andere niet op de hoogte hoe ver hun hiermee waren. Het communiceren en het laten weten was het proces van een onderdeel en de resultaten zijn een verbeterpunt.
  
-
+<br />
 
  
 
@@ -53,10 +58,12 @@ Het was een choatische start van het project binnen de groep. Een aantal groepsl
 ## Conclusions: 
  <br />
 In dit project is gekeken naar manieren om containers op een efficiënte manier op te stapelen op een kade, zodat de afnemer van de containers hier gemakkelijk bij kan. Door het probleemdomein in kaart te brengen, bleek dat de huidige containerplaatsing op een kade handmatig verloopt, dit kost tijd en geld. Door gebruik te maken van Reinforcement Learning (RL) en twee verschillende agents (PPO en A2C) die interacties voerden met een environment, bleek dat de PPO-agent de beste keuze is. Door de PPO-agent te trainen met optimale waarden en hyperparameters, is er een efficiënte containerplaatsing ontstaan, waarbij rekening wordt gehouden met de bestemming van aangrenzende containers. Dit is een grote doorbraak voor de logistieke sector en een goed voorbeeld van hoe technologie/AI de internationale handel bevordert.
-
+<br />
 Als vervolgonderzoek zal de focus liggen op het uitbreiden van de environment en rewardfunctie, dit is gebaseerd op de door ons verkregen resultaten. Het vervolgonderzoek is ook terug te vinden in het paper onder het hoofdstuk 'Conclusie'. Een voorbeeld van het vervolgonderzoek kan zijn: Uitbreiding van de gesimuleerde container environment in de hoogte verder onderzoeken.       (Van 3x3x1 naar bijvoorbeeld 3x3x3). Het vervolgonderzoek heeft als doel om de resulaten en oplossingen specifieker en concreter te maken, zodat het beter aansluit bij de werkelijkheid. 
- 
+<br />
+
 ## Planning:
+
 <br />
 Als groep hebben we afgesproken om een planning te maken en te werken met Scrum methodologie. Hierbij maakten we gebruik van een tool genaamd Trello waar we alle taken bijhouden, de verantwoordelijken aangeven en de deadlines noteren. We hebben alles ook kunnen indelen in afgeronde taken en werk in uitvoering.<br />
 <br />
