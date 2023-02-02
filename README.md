@@ -200,30 +200,7 @@ Data science is een interdisciplinaire veld dat zich richt op het verzamelen, an
  
 </p>
 </details>
-<details><summary>Data preprocessing</summary>
-<p>
- 
-## Data exploration: <br />
-![image](https://user-images.githubusercontent.com/71191328/214367107-943fbc35-ce69-4fd6-ad02-b3ea8eacaada.png)<br />
-![image](https://user-images.githubusercontent.com/71191328/214367496-b0598d12-e556-4b54-b875-2b0a687fc39d.png)<br />
 
-## Data cleansing: <br />
-![image](https://user-images.githubusercontent.com/71191328/214369685-a8245bb9-1b23-4163-9f76-858ae78666df.png)<br />
-![image](https://user-images.githubusercontent.com/71191328/214369850-c2ee7dbc-05e9-40aa-8dd7-1602aa8a7110.png)<br />
-
-## Data preparation: <br />
-![image](https://user-images.githubusercontent.com/71191328/214370088-2eddaaf1-19e5-46a5-8c9f-b3619f5c6167.png)<br />
-![image](https://user-images.githubusercontent.com/71191328/214370212-4ef59551-4d5f-4e0f-86f0-ab2134487661.png)<br />
-
-
-
-## Data visualization: <br />
-![image](https://user-images.githubusercontent.com/71191328/214376585-ca17fb0f-4173-4a3d-93ed-3200569e1778.png)<br />
-![image](https://user-images.githubusercontent.com/71191328/214376687-d76f92ca-3c49-4412-8127-15c97be171e7.png)<br />
-
- 
-</p>
-</details>
  
 <details><summary> Communication</summary>
 <p>
