@@ -21,7 +21,7 @@
 Het doel van dit project, uitgevoerd voor Cofano Software Solutions, is om de processen bij containerterminals te optimaliseren door het verkorten van de tijd dat schepen aan de kade liggen voor het in- en uitladen van containers. Dit moet geautomatiseerd worden en het onderzoek zal zich richten op het vinden van een optimale aanpak om deze uitdaging aan te pakken. Dit is belangrijk voor de efficiëntie van containeroverslag in de haven en voor het verminderen van kosten.<br />
 <br />
 In het begin van het project hebben mijn groepsleden en ik een hoofdvraag en deelvragen opgesteld, die de richtlijn vormen voor ons onderzoek. De hoofdvraag luidt: <br />
-Hoe kan ervoor gezorgd worden dat containers op de kade op een efficiënte manier opgestapeld kunnen worden, zodat de afnemer van de containers hier makkelijk bij kan.<br /> 
+• Hoe kan ervoor gezorgd worden dat containers op de kade op een efficiënte manier opgestapeld kunnen worden, zodat de afnemer van de containers hier makkelijk bij kan.<br /> 
 <br /> 
 Dit zijn de geformuleerde deelvragen:
  <br />
