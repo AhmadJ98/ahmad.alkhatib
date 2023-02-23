@@ -224,6 +224,7 @@ Tijdens de minor heb ik gepresenteerd tijdens de ondergenoemde momenten. Mijn ee
 <p>
 In een andere presentatie, de externe presentatie in week 14, heb ik verteld over de reinforcement Learling module. Ook heb ik gepresenteerd tijdens de eindpresentatie. Ik heb toen uitleg gegeven over de reward en penalty functie. <p>
 <p>
+ 
 [Externe presentatie week 14 groep 4](https://github.com/AhmadJ98/ahmad.alkhatib/blob/main/Externe%20presentatie%20week%2014%20groep%204.pptx)<br />
 [Interne presentatie week 10 groep 4](https://github.com/AhmadJ98/ahmad.alkhatib/blob/main/Interne%20presentatie%20week%2010%20groep%204.pptx)<br />
 [Eindpresentatie](https://github.com/AhmadJ98/ahmad.alkhatib/blob/main/Container%20eindpresentatie.pptx)<br />
