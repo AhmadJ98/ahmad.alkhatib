@@ -209,7 +209,8 @@ In dit onderdeel heb ik mijn kennis van data preprocessing toegepast door een no
 
 In deze code laad ik twee datasets met gegevens over Airbnb prijzen in Amsterdam op weekdagen en in het weekend. Het gaat vervolgens door het proces van Data Exploration, Data Cleansing, Data Preparation en Data Explanation. Ten slotte produceer ik enkele exploratieve visualisaties om de gegevens te begrijpen en patronen te identificeren.
 </p>
-[Notebook Airbnb prijzen](https://github.com/AhmadJ98/ahmad.alkhatib/blob/main/AIRBNB.ipynb)
+
+[Notebook Airbnb prijzen](https://github.com/AhmadJ98/ahmad.alkhatib/blob/main/AIRBNB.ipynb)<br />
 
 
 </p>
