@@ -200,7 +200,20 @@ Data science is een interdisciplinaire veld dat zich richt op het verzamelen, an
  
 </p>
 </details>
+<details><summary> Data preprocessing</summary>
+<p>
 
+
+In dit onderdeel heb ik mijn kennis van data preprocessing toegepast door een notebook te maken waarin ik gegevens heb geanalyseerd. Om zo inzicht te krijgen in overeenkomsten en verschillen van verhuurprijs van woningen in het weekend en doordeweeks uit twee datasets. Om zo trends en patronen te ontdekken door middel van visualisaties. De gegevens die ik heb gebruikt waren afkomstig van een dataset op Kaggle. In deze dataset zijn er een aantal variabalen, zoals room_types, room_shared, person_capacity etc.
+</p>
+
+In deze code laad ik twee datasets met gegevens over Airbnb prijzen in Amsterdam op weekdagen en in het weekend. Het gaat vervolgens door het proces van Data Exploration, Data Cleansing, Data Preparation en Data Explanation. Ten slotte produceer ik enkele exploratieve visualisaties om de gegevens te begrijpen en patronen te identificeren.
+</p>
+[Notebook Airbnb prijzen](https://github.com/AhmadJ98/ahmad.alkhatib/blob/main/AIRBNB.ipynb)
+
+
+</p>
+</details>
  
 <details><summary> Communication</summary>
 <p>
@@ -208,7 +221,7 @@ Data science is een interdisciplinaire veld dat zich richt op het verzamelen, an
 ## Presentations:
 [Externe presentatie week 14 groep 4](https://github.com/AhmadJ98/ahmad.alkhatib/blob/main/Externe%20presentatie%20week%2014%20groep%204.pptx)<br />
 [Interne presentatie week 10 groep 4](https://github.com/AhmadJ98/ahmad.alkhatib/blob/main/Interne%20presentatie%20week%2010%20groep%204.pptx)<br />
-
+[Eindpresentatie](https://github.com/AhmadJ98/ahmad.alkhatib/blob/main/Container%20eindpresentatie.pptx)<br />
 
 ## Writing paper:
 <br />
